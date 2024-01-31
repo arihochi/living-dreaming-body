@@ -13,6 +13,5 @@ Faithfully seeking to life our the Gospel in my experience. Here is a place wher
 - [[Philosophy]]
 - [[Visual arts]]
 - [[Psychology]]
-
 - [[your-first-note]]
 
