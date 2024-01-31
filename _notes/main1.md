@@ -1,5 +1,5 @@
 ---
-title: Your first seed
+title: Cultivating a Garden of Gospel Life
 ---
 
 ### Cultivating a Garden of Gospel Life
