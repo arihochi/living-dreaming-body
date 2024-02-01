@@ -11,7 +11,7 @@ Faithfully seeking to life our the Gospel in my experience. Here is a place wher
 - [[Sex, Gender and Orientation]]
 - [[Biblical studies and Theology]]
 - [[Philosophy]]
-- [[Visual arts]]
-- [[Psychology]]
+- [[visual-arts|visual-arts]]
+- [[psychology|psychology]]
 - [[your-first-note]]
 
