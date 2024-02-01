@@ -16,3 +16,9 @@ _includes/notes_graph.json
 
 # Org undo tree
 *.~undo-tree~
+
+# Org autosaves
+*.md~
+
+# emacs/Denote config
+*.el
