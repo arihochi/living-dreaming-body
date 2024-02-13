@@ -1,12 +1,7 @@
 ---
-title: Exegesis and interpretation
+title: Exegesis toolkit
 ---
 
-# General
-
-1. Understanding the passage requires us to take into account the parts of a text (E.g A verse from Paul's letter) and the letter as a whole (E.g. Paul's whole letter). They mutually inform each other and give us clues on how to read a difficult section or phrase. 
-
-Source: College lecture
 
 # Exegetical toolkit 
 
@@ -28,13 +23,10 @@ The difference of Exegesis and Hermeneutics lies in the end of the two disciplin
 
 Hermeneutics serves exegesis and should not be carried out without this in mind.
 
-# Using Greek
+## Why Intepret?
 
-1. Tense is a contested concept in Greek. Some believe that there is no time component in Greek and others that time is only relevant in the in the indicative mood and other. Some believe that the fundamental semantic force of Greek is aspect (D.A. Carson, Exegetical Fallacies, 1996)
+We must go beyond the discipline of exegesis. That is, the discernment of what is in the text, into the reconstruction of the thoughts of the biblical authors. (inspired by: Moo, A theology of Paul and his letters, 2021, p8). Another way to understand this, is a distinction between what a text states explicitly, and what a text communicates implicitly. We are called to read the lines of text and not merely to remain there, we are also to read between the lines of scripture. (Phillip Long, Reading between the lines: On Discerning the implicit messages of scripture, 2021) Biblical truth is explicit, but the whole truth is implicit. (ibid.) 
 
-2. The aorist has been misunderstood as giving special meaning or emphasis to a point or an action. However, this is not the case, it simply means that something has happened and is a way of referencing an action. (College)
+However, there is good reconstruction and bad reconstruction. Postmodernism has given helped us to understand that different perspectives (feminist, queer, liberationist, etc.) allow us to see and clarify different things as they appear in the text. However, it is important to be constrained by the lines themselves and not to read outside of the lines. To do so, is to read outside of the boundary lines established by the text.
 
-3. The middle voice is misunderstood when ones assumes that it always has a reflexive meaning or suggestion that subject is acting of itself. (D.A. Carson, Exegetical Fallacies, 1996)
-
-
-
+We must privileged a reading of the text where its implicit and explicit reading are in agreement rather than one where there are in conflict.
