@@ -29,4 +29,4 @@ We must go beyond the discipline of exegesis. That is, the discernment of what i
 
 However, there is good reconstruction and bad reconstruction. Postmodernism has given helped us to understand that different perspectives (feminist, queer, liberationist, etc.) allow us to see and clarify different things as they appear in the text. However, it is important to be constrained by the lines themselves and not to read outside of the lines. To do so, is to read outside of the boundary lines established by the text.
 
-We must privileged a reading of the text where its implicit and explicit reading are in agreement rather than one where there are in conflict.
+We must privileged a reading of the text where its implicit and explicit reading are in agreement rather than one where there are in conflict. The interpretation of the lines of scripture should not stand in conflict with the lines themselves. To read between the lines is to do it in two senses. It is to both reach for the implicit meaning of the text and to be constrained by the text's more explicit messages. (ibid.)
